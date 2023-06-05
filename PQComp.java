@@ -55,5 +55,6 @@ class MyClassComparator implements Comparator<MyNode> { //Comparator 인터페�
 			return 1;
 		}
 		return 0;
+        
 	}
 }

@@ -4,6 +4,7 @@
 import java.util.Deque;
 import java.util.ArrayDeque;
 
+
 class Queue<E>{ // 
     Deque<E> dq1 = new ArrayDeque<>(); //ArrayDeque의 인스턴스를 생성하고 
     //ArrayDeque 구현에 제공하는 기능을 사용하는 Deque의 유요한 인스턴스이다.

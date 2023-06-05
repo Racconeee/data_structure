@@ -21,6 +21,7 @@ public class Scoville {
     PQ.add(70);
     PQ.add(20);
 
+    
     int first = 0;
     int second = 0;
     int total;
