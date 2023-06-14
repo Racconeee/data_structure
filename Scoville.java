@@ -6,6 +6,7 @@
 import java.util.PriorityQueue;
 
 public class Scoville {
+    //우선순위큐로 구현한예제
     public static void main(String[] args) {
         
     PriorityQueue<Integer> PQ = new PriorityQueue<>();
